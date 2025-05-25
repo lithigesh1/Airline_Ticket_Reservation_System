@@ -6,18 +6,6 @@ Welcome to the **Airline Ticket Reservation System** project. This project is a 
 
 ---
 
-## Table of Contents
-
-* [Project Overview](https://www.notion.so/1fcb9e75448e80f2b2aec2e2d39643f7?pvs=21)
-* [Features](https://www.notion.so/1fcb9e75448e80f2b2aec2e2d39643f7?pvs=21)
-* [Prerequisites](https://www.notion.so/1fcb9e75448e80f2b2aec2e2d39643f7?pvs=21)
-* [Installation](https://www.notion.so/1fcb9e75448e80f2b2aec2e2d39643f7?pvs=21)
-* [Usage](https://www.notion.so/1fcb9e75448e80f2b2aec2e2d39643f7?pvs=21)
-* [Analysis and Algorithms](https://www.notion.so/1fcb9e75448e80f2b2aec2e2d39643f7?pvs=21)
-
-  * [Dijkstra Algorithm for Flight Routes](https://www.notion.so/1fcb9e75448e80f2b2aec2e2d39643f7?pvs=21)
-
----
 
 ## Project Overview
 
