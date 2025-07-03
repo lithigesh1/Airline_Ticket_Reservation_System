@@ -124,3 +124,7 @@ Summary of the algorithm:
 > Dijkstra's Algorithm is used to find the shortest path from a source node to all other nodes in a graph. It works by iteratively selecting the node with the smallest known distance, updating the distances to its neighbors, and marking it as "visited."
 
 This functionality provides users with accurate and optimized flight options, enhancing the user experience. It also helps sort available flights based on total travel time efficiently.
+
+## Contributors
+
+- [@S.P.Darshan](https://github.com/sp-darshan)
